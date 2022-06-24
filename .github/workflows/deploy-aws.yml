@@ -1,11 +1,10 @@
 name: "Deploy to AWS"
 
 on:
-  push:
-    branches:
-      - 'gh-pages'
-  schedule:
-    - cron: '0 0 * * 2'
+  workflow_run:
+    workflows: ["01 Build and Deploy Site"]
+    types:
+      - completed
   workflow_dispatch:
 
 jobs:
