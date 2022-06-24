@@ -26,7 +26,8 @@ life_cycle: pre-alpha
 license: CC-BY 4.0
 
 # Link to the source repository for this lesson
-source: https://lessons.datacarpentry.org/test-lesson/
+source: https://github.com/fmichonneau/test-bucket-lesson/
+url: https://lessons.datacarpentry.org/test-lesson/
 
 # Default branch of your lesson
 branch: main
