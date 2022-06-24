@@ -3,7 +3,7 @@ name: "Deploy to AWS"
 on:
   push:
     branches:
-      - gh-pages
+      - 'gh-pages'
   schedule:
     - cron: '0 0 * * 2'
   workflow_dispatch:
@@ -12,9 +12,6 @@ jobs:
   full-build:
     name: "Deploy to AWS"
     runs-on: ubuntu-latest
-    env:
-      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
-      RENV_PATHS_ROOT: ~/.local/share/renv/
     steps:
 
       - name: "Checkout folder"
