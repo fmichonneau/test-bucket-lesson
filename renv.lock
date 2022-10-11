@@ -161,7 +161,7 @@
     "renv": {
       "Package": "renv",
       "Version": "0.15.5",
-      "Source": "CRAN",
+      "Source": "Repository",
       "Repository": "CRAN",
       "RemoteType": "standard",
       "RemotePkgRef": "renv",
