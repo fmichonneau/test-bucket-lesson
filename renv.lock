@@ -68,6 +68,12 @@
       "Version": "1.1.0",
       "Source": "Repository",
       "Repository": "RSPM",
+      "RemoteType": "standard",
+      "RemotePkgRef": "fastmap",
+      "RemoteRef": "fastmap",
+      "RemoteRepos": "https://packagemanager.rstudio.com/all/__linux__/focal/latest/",
+      "RemotePkgPlatform": "source",
+      "RemoteSha": "1.1.0",
       "Hash": "77bd60a6157420d4ffa93b27cf6a58b8",
       "Requirements": []
     },
@@ -92,6 +98,12 @@
       "Version": "0.9",
       "Source": "Repository",
       "Repository": "RSPM",
+      "RemoteType": "standard",
+      "RemotePkgRef": "highr",
+      "RemoteRef": "highr",
+      "RemoteRepos": "https://packagemanager.rstudio.com/all/__linux__/focal/latest/",
+      "RemotePkgPlatform": "source",
+      "RemoteSha": "0.9",
       "Hash": "8eb36c8125038e648e5d111c0d7b2ed4",
       "Requirements": [
         "xfun"
