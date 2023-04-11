@@ -4,6 +4,9 @@
     <loc>https://lessons.datacarpentry.org/test-lesson/01-introduction.html</loc>
   </url>
   <url>
+    <loc>https://lessons.datacarpentry.org/test-lesson/404.html</loc>
+  </url>
+  <url>
     <loc>https://lessons.datacarpentry.org/test-lesson/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
@@ -20,6 +23,9 @@
   </url>
   <url>
     <loc>https://lessons.datacarpentry.org/test-lesson/instructor/01-introduction.html</loc>
+  </url>
+  <url>
+    <loc>https://lessons.datacarpentry.org/test-lesson/instructor/404.html</loc>
   </url>
   <url>
     <loc>https://lessons.datacarpentry.org/test-lesson/instructor/CODE_OF_CONDUCT.html</loc>
